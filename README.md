@@ -7,9 +7,9 @@ Here are collected materials related to experiments on the task of Vesuvius Chal
 
 The train_scripts directory contains scripts that were used to train the corresponding modifications of the [GP model of ink recognition](https://github.com/ScrollPrize/villa/tree/main/ink-detection). 
 
-In the utils directory lie the notebooks and scripts that were used to process the data and explore it.
+In the utils directory you can find the notebooks and scripts that were used to process the data and explore it.
 
-In the exps directory lie notebooks with additional studies that did not involve training a particular TimeSformer modification. 
+In the exps directory you can find notebooks with additional studies that did not involve training a particular TimeSformer modification. 
 
 Checkpoints of the models, as well as prediction results of some of them, are posted on [disk](https://drive.google.com/drive/folders/1yWJ2BrIQazRLOyBPel6p20c3DxInyxRm?usp=sharing).
 
