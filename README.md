@@ -3,7 +3,7 @@ Vesuvius Challenge experiments related to master thesis
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Here are collected materials related to experiments on the task of Vesuvius Challenge ink recognition. 
+Thsi repo contains materials related to experiments on the task of Vesuvius Challenge ink recognition. 
 
 The train_scripts directory contains scripts that were used to train the corresponding modifications of the [GP model of ink recognition](https://github.com/ScrollPrize/villa/tree/main/ink-detection). 
 
